@@ -1,0 +1,13 @@
+# The following lines contain the users of the system
+# Each line consists of: UserType;Username;Password
+# If the line describes a troubleshooter, their function and department are also provided.
+User;Evert;test
+User;Ruud;test
+User;Tristan;test
+User;Steven;test
+User;Rogier;test
+User;Vincent;test
+Troubleshooter;Oliver;test;Lecturer;HBO-IT
+Troubleshooter;Erik;test;Lecturer;HBO-ICT
+Troubleshooter;Peter;test;Researcher;HBO-ICT
+Troubleshooter;Remco;test;Lecturer;HBO-ICT

@@ -1,0 +1,32 @@
+cardio,swimming,20,0.3
+strength,bicep curls,10,false
+cardio,cycle,10,4
+strength,squat,5,true
+strength,push ups,10,false
+cardio,steps,15,1
+cardio,rowing,15,2
+strength,pull ups,10,true
+strength,push ups,10,true
+cardio,run,10,2
+cardio,sprint,5,2
+strength,pull ups,5,false
+strength,triceps curls,5,true
+cardio,spinning,10,2
+cardio,spinning,15,5
+cardio,rowing,20,5
+strength,lunges,10,false
+strength,lunges,5,true
+cardio,arm bike,10,4
+cardio,arm bike,15,6
+cardio,jump rope,10,0
+cardio,elliptical,15,4
+strength,calf raises,8,true
+cardio,swimming,20,1
+strength,deadlift,10,false
+strength,bench press,10,false
+cardio,jog,20,2
+strength,leg press,10,true
+strength,chest press,12,false
+cardio,Medicine ball,10,0
+cardio,punching bag,10,0
+cardio,rock climbing,15,0

@@ -1,0 +1,11 @@
+# The following lines contain the tickets in the system
+# There are two types of tickets: open tickets and already resolved tickets.
+# Both tickets start with: Type(hardware or software;Username of the user that created the ticket;Report time (when was the problem reported);Machine id or Software name (depending on the type);Problem description
+# A resolved ticket also contains:
+# ;Username of the troubleShooter that resolved the problem;Solution;Resolved time (when was the problem fixed)
+Hardware;Evert;2019-12-03T10:15:30;MAC12345;Where is the power button of my computer?;Oliver;The powerbutton is on the backside of the Macintosh machine.;2019-12-15T10:05:23
+Software;Steven;2019-11-14T14:45:35;MacOS;My computer contains MacOS, but I am a Windows user...
+Software;Tristan;2018-05-03T08:15:06;Angry Birds;I am stuck at level 15 of Angry Birds;Erik;Stop fooling around and get back to work. BTW: touch the screen twice to let the blue birds split.;2018-05-04T11:45:12
+Hardware;Rogier;2019-03-09T11:15:40;WIN98765;How can I connect a mouse to my computer?;Peter;A mouse contains a USB-connector which attached to the USB-port of the system. It is a simple plug and play operation which you can perform yourself.;2019-03-11T09:45:56
+Software;Vincent;2020-03-03T08:00:01;Windows;Help, my computer contains a virus. Is it contagious to humans?
+Hardware;Ruud;2021-01-05T17:15:23;Canon Pixma XPR123;I bought a red inktjetprinter. Why does it only print in grayscale?

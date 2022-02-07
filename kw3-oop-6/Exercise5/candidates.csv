@@ -1,0 +1,1039 @@
+﻿ListId;Party name;CandidateId;FirstName;Infix;LastName;Place of residence
+Lijstnummer;Politieke Partij;Kandidaatnummer;Roepnaam;Tussenvoegsel;Achternaam;Woonplaats
+1;VVD;1;Mark;;Rutte;'s-Gravenhage
+1;VVD;2;Tamara;van;Ark;Nieuwerkerk aan den IJssel
+1;VVD;3;Sophie;;Hermans;Amsterdam
+1;VVD;4;Bente;;Becker;'s-Gravenhage
+1;VVD;5;Dilan;;Yeşilgöz-Zegerius;Amsterdam
+1;VVD;6;Bas;van 't;Wout;Hoeven
+1;VVD;7;Mark;;Harbers;Rotterdam
+1;VVD;8;Aukje;de;Vries;Leeuwarden
+1;VVD;9;Dennis;;Wiersma;Utrecht
+1;VVD;10;Ockje;;Tellegen;'s-Gravenhage
+1;VVD;11;Thierry;;Aartsen;Breda
+1;VVD;12;Eelco;;Heinen;'s-Gravenhage
+1;VVD;13;Queeny-Aimée;;Rajkowski;Utrecht
+1;VVD;14;Roelien;;Kamminga;Groningen
+1;VVD;15;Zohair;El;Yassini;Utrecht
+1;VVD;16;Thom;van;Campen;Zwolle
+1;VVD;17;Mariëlle;;Paul;Amsterdam
+1;VVD;18;Silvio;;Erkens;Kerkrade
+1;VVD;19;Daniel;;Koerhuis;Raalte
+1;VVD;20;Ingrid;;Michon-Derkzen;'s-Gravenhage
+1;VVD;21;Peter;;Valstar;'s-Gravenzande
+1;VVD;22;Ulysse;;Ellian;Almere
+1;VVD;23;Jeroen;Van;Wijngaarden;Amsterdam
+1;VVD;24;Peter;de;Groot;Harderwijk
+1;VVD;25;Jacqueline;van den;Hil;Goes
+1;VVD;26;Fahid;;Minhas;Schiedam
+1;VVD;27;Judith;;Tielen;Utrecht
+1;VVD;28;Daan;de;Kort;Veldhoven
+1;VVD;29;Rudmer;;Heerema;Alkmaar
+1;VVD;30;Ruben;;Brekelmans;Oisterwijk
+1;VVD;31;Pim;van;Strien;Amsterdam
+1;VVD;32;Hatte;van der;Woude;Delft
+1;VVD;33;Folkert;;Idsinga;Amsterdam
+1;VVD;34;Daan;de;Neef;Breda
+1;VVD;35;Jan;;Klink;Loosdrecht
+1;VVD;36;Kelly;;Regterschot;Landgraaf
+1;VVD;37;Bart;;Smals;Delft
+1;VVD;38;Mark;;Strolenberg;Hoogeveen
+1;VVD;39;Ruud;;Verkuijlen;Hilversum
+1;VVD;40;Erik;;Haverkort;Eefde
+1;VVD;41;Marinus;;Tabak;Groningen
+1;VVD;42;Dorien;;Verbree;Leiden
+1;VVD;43;Harry;;Bevers;Leeuwarden
+1;VVD;44;Hawre;;Rahimi;Weesp
+1;VVD;45;Martijn;;Grevink;Elsene (Brussel)
+1;VVD;46;Chris;;Simons;Middelburg
+1;VVD;47;Simone;;Richardson;Lijnden
+1;VVD;48;Yvonne;;Bijenhof;Almelo
+1;VVD;49;Max;;Patelski;Maastricht
+1;VVD;50;Kathy;;Arends-Drijver;Berkel en Rodenrijs
+1;VVD;51;Laurens;van;Doeveren;Wassenaar
+1;VVD;52;Tim;;Simons;Made
+1;VVD;53;Martijn;;Buijsse;Boekel
+1;VVD;54;Frederik;;Peters;Lent
+1;VVD;55;Ronald;;Bakker;Sprang-Capelle
+1;VVD;56;Kees;;Noomen;Amstelveen
+1;VVD;57;Sanneke;;Vermeulen;Roosendaal
+1;VVD;58;Sabine;;Koebrugge;Groningen
+1;VVD;59;Mark;;Achterbergh-Copier;Halfweg
+1;VVD;60;Jenny;;Elbertsen;Apeldoorn
+1;VVD;61;Barry;;Jacobs;Bergen op Zoom
+1;VVD;62;Saskia;van;Dijk;IJsselstein
+1;VVD;63;Hugo;;Bellaart;Bussum
+1;VVD;64;Rebin;;Maref;Arnhem
+1;VVD;65;Ivo;de;Wolff;Sint Nicolaasga
+1;VVD;66;Laurence;;Groot Bruinderink;New York
+1;VVD;67;Lars;;Lambers;Weert
+1;VVD;68;Laurine;;Bonnevits-de Jong;Berkel en Rodenrijs
+1;VVD;69;Mirjam;;Nelisse;Dirksland
+1;VVD;70;Liesbeth;;Rooijmans;Apeldoorn
+1;VVD;71;Sharona;;Malfait-van Ham;Oud Gastel
+1;VVD;72;René;ten;Have;'s-Gravenhage
+1;VVD;73;Henk;;Matthijsse;Assen
+1;VVD;74;Roelof Theun;;Hoen;Noordwolde
+1;VVD;75;Sander;;Janssen;Hengelo
+1;VVD;76;Edith;van den;Ham-Jaarsma;Almelo
+1;VVD;77;Filip;;Lauwerysen;Grizane
+1;VVD;78;Bart;;Bikkers;Vlaardingen
+1;VVD;79;Kees;;Kraanen;Amersfoort
+1;VVD;80;Maarten;van der;Weijden;Waspik
+2;PVV (Partij voor de Vrijheid);1;Geert;;Wilders;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);2;Fleur;;Agema;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);3;Gidi;;Markuszower;Amsterdam
+2;PVV (Partij voor de Vrijheid);4;Léon;de;Jong;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);5;Vicky;;Maeijer;Krimpen aan den IJssel
+2;PVV (Partij voor de Vrijheid);6;Alexander;;Kops;Overasselt
+2;PVV (Partij voor de Vrijheid);7;Martin;;Bosma;Amsterdam
+2;PVV (Partij voor de Vrijheid);8;Tony;van;Dijck;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);9;Lilian;;Helder;Venlo
+2;PVV (Partij voor de Vrijheid);10;Barry;;Madlener;Rockanje
+2;PVV (Partij voor de Vrijheid);11;Sietse;;Fritsma;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);12;Danai;van;Weerdenburg;Amstelveen
+2;PVV (Partij voor de Vrijheid);13;Dion;;Graus;Heerlen
+2;PVV (Partij voor de Vrijheid);14;Machiel;de;Graaf;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);15;Edgar;;Mulder;Zwolle
+2;PVV (Partij voor de Vrijheid);16;Harm;;Beertema;Voorburg
+2;PVV (Partij voor de Vrijheid);17;Raymond;de;Roon;Beek
+2;PVV (Partij voor de Vrijheid);18;Marjolein;;Faber;Hoevelaken
+2;PVV (Partij voor de Vrijheid);19;Roy;van;Aalst;Hengelo
+2;PVV (Partij voor de Vrijheid);20;Emiel;van;Dijk;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);21;Chris;;Jansen;Almere
+2;PVV (Partij voor de Vrijheid);22;Henk;de;Vree;Hardinxveld-Giessendam
+2;PVV (Partij voor de Vrijheid);23;Nicole;;Moinat;Purmerend
+2;PVV (Partij voor de Vrijheid);24;Daniëlle;de;Winter;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);25;Sebastiaan;;Stöteler;Almelo
+2;PVV (Partij voor de Vrijheid);26;Hidde;;Heutink;Enschede
+2;PVV (Partij voor de Vrijheid);27;Toon;van;Dijk;Almere
+2;PVV (Partij voor de Vrijheid);28;Joeri;;Pool;Kampen
+2;PVV (Partij voor de Vrijheid);29;Marco;;Deen;Zandvoort
+2;PVV (Partij voor de Vrijheid);30;Hendrik;;Wakker;Urk
+2;PVV (Partij voor de Vrijheid);31;René;;Claassen;Landgraaf
+2;PVV (Partij voor de Vrijheid);32;Anthony;;Heeren;Pijnacker
+2;PVV (Partij voor de Vrijheid);33;Maikel;;Boon;Bergen op Zoom
+2;PVV (Partij voor de Vrijheid);34;Elmar;;Vlottes;Apeldoorn
+2;PVV (Partij voor de Vrijheid);35;Erik;;Veltmeijer;Vroomshoop
+2;PVV (Partij voor de Vrijheid);36;Harry;van den;Berg;Tilburg
+2;PVV (Partij voor de Vrijheid);37;Tessa;;Dulfer;Papendrecht
+2;PVV (Partij voor de Vrijheid);38;Thijs;;Klaassen;Geleen
+2;PVV (Partij voor de Vrijheid);39;Peter;;Smitskam;Zoetermeer
+2;PVV (Partij voor de Vrijheid);40;Daryl;;Pfoster;Buchten
+2;PVV (Partij voor de Vrijheid);41;Vincent;van den;Born;Den Helder
+2;PVV (Partij voor de Vrijheid);42;Sjors;;Nagtegaal;Utrecht
+2;PVV (Partij voor de Vrijheid);43;Arthur;van;Dooren;Nieuwe Pekela
+2;PVV (Partij voor de Vrijheid);44;Folkert;;Thiadens;Zevenhuizen
+2;PVV (Partij voor de Vrijheid);45;Coen;;Verheij;Arnhem
+2;PVV (Partij voor de Vrijheid);46;Patricia;van der;Kammen;Tilburg
+2;PVV (Partij voor de Vrijheid);47;Max;;Aardema;Drachten
+2;PVV (Partij voor de Vrijheid);48;Sebastian;;Kruis;'s-Gravenhage
+2;PVV (Partij voor de Vrijheid);49;Robert;;Housmans;Born
+2;PVV (Partij voor de Vrijheid);50;Gom;van;Strien;Arcen
+3;CDA;1;Wopke;;Hoekstra;Bussum
+3;CDA;2;Pieter;;Omtzigt;Enschede
+3;CDA;3;Anne;;Kuik;Groningen
+3;CDA;4;Inge;van;Dijk;Gemert
+3;CDA;5;Raymond;;Knops;Hegelsom
+3;CDA;6;Pieter;;Heerma;Purmerend
+3;CDA;7;Mona;;Keijzer;Edam
+3;CDA;8;Agnes;;Mulder;Assen
+3;CDA;9;Harry;van der;Molen;Leeuwarden
+3;CDA;10;Lucille;;Werner;Nederhorst den Berg
+3;CDA;11;Jaco;;Geurts;Voorthuizen
+3;CDA;12;Hilde;;Palland-Mulder;Kampen
+3;CDA;13;René;;Peters;Oss
+3;CDA;14;Derk;;Boswijk;Kockengen
+3;CDA;15;Mustafa;;Amhaouch;Panningen
+3;CDA;16;Joba;van den;Berg-Jansen;Goes
+3;CDA;17;Henri;;Bontenbal;Rotterdam
+3;CDA;18;Evert Jan;;Slootweg;Bennekom
+3;CDA;19;Wytske;;Postma;'s-Gravenhage
+3;CDA;20;Julius;;Terpstra;Leiden
+3;CDA;21;Harmen;;Krul;Den Helder
+3;CDA;22;Bart;van den;Brink;Amersfoort
+3;CDA;23;Eline;;Vedder-Monaster;Ruinerwold
+3;CDA;24;Frank;;Meerkerk;Ottoland
+3;CDA;25;Martijn;van;Helvert;Sittard
+3;CDA;26;Jantine;;Zwinkels;Utrecht
+3;CDA;27;Jaap;;Jonkers;Joure
+3;CDA;28;Jelle;;Beemsterboer;Tuitjenhorn
+3;CDA;29;Eveline;;Tijmstra;Purmerend
+3;CDA;30;Marieke;;Nass;Gulpen
+3;CDA;31;Froukje;de;Jonge;Almere
+3;CDA;32;Lea;van der;Tuin-Kuipers;Kornhorn
+3;CDA;33;Mustafa;;Bal;Gorinchem
+3;CDA;34;Cees;de;Jong;Hoogblokland
+3;CDA;35;Piet-Cees;van der;Wel;Hardenberg
+3;CDA;36;Bert;van;Steeg;Utrecht
+3;CDA;37;Gabriëlle;;Heine;Maastricht
+3;CDA;38;Michiel;;Dijkman;Rotterdam
+3;CDA;39;Rudesindo;;Nunez Queija;Heemskerk
+3;CDA;40;Inge Emilie;;Mous;Amsterdam
+3;CDA;41;Patricia;van de;Vijver-van Deursen;Sluis
+3;CDA;42;Huibert;van;Rossum;Gouda
+3;CDA;43;Douwe;de;Vries;Hallum
+3;CDA;44;Bo;ter;Braak;Borne
+3;CDA;45;Evert Jan;van;Asselt;Houten
+3;CDA;46;Martin;;Reesink;Borne
+3;CDA;47;Chris;van;Dam;'s-Gravenhage
+3;CDA;48;Ingeborg;ter;Laak;Zoetermeer
+3;CDA;49;Karsten;;Klein;'s-Gravenhage
+3;CDA;50;Ferd;;Grapperhaus;Amsterdam
+3;CDA;51;Ank;;Bijleveld-Schouten;Goor
+3;CDA;52;Marc;;Smellink;Rossum
+3;CDA;53;Lisanne;;Spanbroek;Olst
+3;CDA;54;Yme;;Drost;Hengelo
+3;CDA;55;Jan;;Nabers;Zwolle
+3;CDA;56;Mart;van;Lagen;Enschede
+3;CDA;57;Margreet;;Bosma-van Wieren;Zwartsluis
+4;D66;1;Sigrid;;Kaag;'s-Gravenhage
+4;D66;2;Rob;;Jetten;Ubbergen
+4;D66;3;Vera;;Bergkamp;Amsterdam
+4;D66;4;Jan;;Paternotte;Leiden
+4;D66;5;Sjoerd Wiemer;;Sjoerdsma;'s-Gravenhage
+4;D66;6;Salima;;Belhaj;Rotterdam
+4;D66;7;Steven;Van;Weyenberg;'s-Gravenhage
+4;D66;8;Tjeerd;de;Groot;Haarlem
+4;D66;9;Hanneke;van der;Werf;'s-Gravenhage
+4;D66;10;Raoul;;Boucke;Rotterdam
+4;D66;11;Paul;van;Meenen;Leiden
+4;D66;12;Hans;;Vijlbrief;Woubrugge
+4;D66;13;Jeanet;van der;Laan;Lisse
+4;D66;14;Joost;;Sneller;'s-Gravenhage
+4;D66;15;Wieke;;Paulusma;Groningen
+4;D66;16;Faissal;;Boulakjar;Teteringen
+4;D66;17;Hülya;;Kat;Amsterdam
+4;D66;18;Sidney;;Smeets;Amsterdam
+4;D66;19;Rens;;Raemakers;Neer
+4;D66;20;Jorien;;Wuite;Sint Maarten
+4;D66;21;Kiki;;Hagen;Mijdrecht
+4;D66;22;Lisa;van;Ginneken;Amsterdam
+4;D66;23;Alexander;;Hammelburg;Amsterdam
+4;D66;24;Romke;de;Jong;Gorredijk
+4;D66;25;Marijke;van;Beukering-Huijbregts;IJsselstein
+4;D66;26;Anne-Marijke;;Podt;Utrecht
+4;D66;27;Fonda;;Sahla;'s-Gravenhage
+4;D66;28;Hind;;Dekker-Abdulaziz;Utrecht
+4;D66;29;Sjoerd;;Warmerdam;Amsterdam
+4;D66;30;Nazmi;;Türkkol;Amsterdam
+4;D66;31;Hans;;Teunissen;Breda
+4;D66;32;Carline;van;Breugel;Amsterdam
+4;D66;33;Joan;;Nunnely;Rotterdam
+4;D66;34;Meyrem;;Çimen;Haarlem
+4;D66;35;Loes;ten;Dolle;Winterswijk
+4;D66;36;Mahjoub;;Mathlouti;Leidschendam-Voorburg
+4;D66;37;David;;Kuijper;'s-Gravenhage
+4;D66;38;Marleen;van der;Meulen-Kwakernaak;Gorssel
+4;D66;39;Marcel;;Beukeboom;Wassenaar
+4;D66;40;Ojanne;de;Vries-Chang;Heerenveen
+4;D66;41;Kirsten;;Wilkeshuis;'s-Gravenhage
+4;D66;42;Stijn;;Warmenhoven;'s-Gravenhage
+4;D66;43;Wybren;;Bakker;Diepenveen
+4;D66;44;Marc;van;Opstal;Wemeldinge
+4;D66;45;Marieke;;Vellinga-Beemsterboer;Boazum
+4;D66;46;Marja;;Lust;Amsterdam
+4;D66;47;Sonja;;Paauw;Zwolle
+4;D66;48;Christine;;Bel;Delft
+4;D66;49;Suat;;Kutlu;Eindhoven
+4;D66;50;Robert;;Kuipers;Sittard-Geleen
+4;D66;51;Robin;de;Roon;Rotterdam
+4;D66;52;Gabriëlle;;Bekhuis;Monnickendam
+4;D66;53;Stef;;Stevens;Helmond
+4;D66;54;Marion;;Loor;Amsterdam
+4;D66;55;Pepijn;;Vemer;Eelderwolde
+4;D66;56;Vinesh;;Lalta;'s-Gravenhage
+4;D66;57;Rosita;;Girjasing;Rijswijk
+4;D66;58;Rob;;Hofland;Amsterdam
+4;D66;59;Constance;;Tiemens;Woerden
+4;D66;60;Eli;;Geoffroy;Almere
+4;D66;61;Sarah;;Berckenkamp;Amsterdam
+4;D66;62;Laura;;Neijenhuis;Rotterdam
+4;D66;63;Bas;de;Leeuw;Vorden
+4;D66;64;Gjin;;Ceca;Wageningen
+4;D66;65;Emma;;Laurijssens-van Engelenhoven;Etten-Leur
+4;D66;66;Teresa;da;Silva Marcos;IJmuiden
+4;D66;67;Monique;;Zwetsloot;Wageningen
+4;D66;68;Caecilia;van;Peski;Tilburg
+4;D66;69;Rosanna;;Huertas Mulckhuyse;Velp
+4;D66;70;Yasin;;Elmaci;Leerdam
+4;D66;71;Corine;van;Dun;Utrecht
+4;D66;72;Martijn;;Braber;Enschede
+4;D66;73;Margreet;;Overmeen-Bakhuis;Wierden
+4;D66;74;Jaimi;van;Essen;Losser
+4;D66;75;Fatma;;Koşer-Kaya;Amersfoort
+4;D66;76;Jan;van de;Ven;Venray
+4;D66;77;Marietje;;Schaake;Amsterdam
+4;D66;78;Sumer;;Chaban;Hoorn
+4;D66;79;Stientje;van;Veldhoven-van der Meer;Rijswijk
+4;D66;80;Kajsa;;Ollongren;Amsterdam
+5;GROENLINKS;1;Jesse;;Klaver;'s-Gravenhage
+5;GROENLINKS;2;Corinne;de;Jonge van Ellemeet;Abcoude
+5;GROENLINKS;3;Tom;van der;Lee;Amsterdam
+5;GROENLINKS;4;Laura;;Bromet;Monnickendam
+5;GROENLINKS;5;Senna;;Maatoug;Leiden
+5;GROENLINKS;6;Bart;;Snels;Utrecht
+5;GROENLINKS;7;Suzanne;;Kröger;Amsterdam
+5;GROENLINKS;8;Paul;;Smeulders;Leidschendam-Voorburg
+5;GROENLINKS;9;Kauthar;;Bouchallikh;Amsterdam
+5;GROENLINKS;10;Lisa;;Westerveld;Nijmegen
+5;GROENLINKS;11;April;;Ranshuijsen;Nijmegen
+5;GROENLINKS;12;Niels;van den;Berge;'s-Gravenhage
+5;GROENLINKS;13;Andrew;;Harijgens;Bergen op Zoom
+5;GROENLINKS;14;Laura;;Vissenberg;Amsterdam
+5;GROENLINKS;15;Geert;;Gabriëls;Weert
+5;GROENLINKS;16;Daniëlle;;Hirsch;Amsterdam
+5;GROENLINKS;17;Nevin;;Özütok;Amsterdam
+5;GROENLINKS;18;Stephanie;;Bennett;Groningen
+5;GROENLINKS;19;Noortje;;Thijssen;Amsterdam
+5;GROENLINKS;20;Jeroen;;Postma;Rotterdam
+5;GROENLINKS;21;Simion;;Blom;Amsterdam
+5;GROENLINKS;22;Tom;van den;Nieuwenhuijzen;Utrecht
+5;GROENLINKS;23;Raja;;Alouani;Haarlem
+5;GROENLINKS;24;Serpil;;Ateş;'s-Gravenhage
+5;GROENLINKS;25;Hagar;;Roijackers;'s-Hertogenbosch
+5;GROENLINKS;26;Mark;;Brakel;Rotterdam
+5;GROENLINKS;27;Dorrit;de;Jong;Amsterdam
+5;GROENLINKS;28;Samir;;Toub;Eindhoven
+5;GROENLINKS;29;Astrid;;Janssen;Amersfoort
+5;GROENLINKS;30;Imran;;Hyder;Leiden
+5;GROENLINKS;31;Hilde;;Niezen;Gouda
+5;GROENLINKS;32;Pepijn;;Zwanenberg;Utrecht
+5;GROENLINKS;33;Romano;;Boshove;Hardenberg
+5;GROENLINKS;34;Milka;;Yemane;Amsterdam
+5;GROENLINKS;35;Martine;;Doppen;Amsterdam
+5;GROENLINKS;36;Melody;;Deldjou Fard;Utrecht
+5;GROENLINKS;37;Colin;;Kok;Wierden
+5;GROENLINKS;38;Jaswina;;Elahi;'s-Gravenhage
+5;GROENLINKS;39;Tara;;Scally;Utrecht
+5;GROENLINKS;40;Mohamed;;Amessas;Huizen
+5;GROENLINKS;41;Leoni;;Jansen;Westbeemster
+5;GROENLINKS;42;Nienke;;Homan;Groningen
+5;GROENLINKS;43;Ufuk;;Kahya;'s-Hertogenbosch
+5;GROENLINKS;44;Anouk;;Gielen;Amsterdam
+5;GROENLINKS;45;Wim-Jan;;Renkema;Steenwijk
+5;GROENLINKS;46;Kim;;Schmitz;Sittard-Geleen
+5;GROENLINKS;47;Tofik;;Dibi;Amsterdam
+5;GROENLINKS;48;Glimina;;Chakor;Groningen
+5;GROENLINKS;49;Eric;;Corton;Amsterdam
+5;GROENLINKS;50;Bram;van;Ojik;Amsterdam
+6;SP (Socialistische Partij);1;Lilian;;Marijnissen;Oss
+6;SP (Socialistische Partij);2;Renske;;Leijten;Haarlem
+6;SP (Socialistische Partij);3;Mahir;;Alkaya;Amsterdam
+6;SP (Socialistische Partij);4;Michiel;van;Nispen;Breda
+6;SP (Socialistische Partij);5;Maarten;;Hijink;Amersfoort
+6;SP (Socialistische Partij);6;Sandra;;Beckerman;Groningen
+6;SP (Socialistische Partij);7;Peter;;Kwint;Amsterdam
+6;SP (Socialistische Partij);8;Bart;van;Kent;'s-Gravenhage
+6;SP (Socialistische Partij);9;Jasper;van;Dijk;Utrecht
+6;SP (Socialistische Partij);10;Jimmy;;Dijk;Groningen
+6;SP (Socialistische Partij);11;Sunita;;Biharie;Apeldoorn
+6;SP (Socialistische Partij);12;Hanne;;Drost;'s-Gravenhage
+6;SP (Socialistische Partij);13;Nicole;;Temmink;Zwolle
+6;SP (Socialistische Partij);14;Murat;;Memiş;Eindhoven
+6;SP (Socialistische Partij);15;Sarah;;Dobbe;Arnhem
+6;SP (Socialistische Partij);16;Hans;;Boerwinkel;Doetinchem
+6;SP (Socialistische Partij);17;Fenna;;Feenstra;Groningen
+6;SP (Socialistische Partij);18;Nina;de;Ridder;Beverwijk
+6;SP (Socialistische Partij);19;Frank;;Futselaar;Zwolle
+6;SP (Socialistische Partij);20;Bert;;Peterse;Rotterdam
+6;SP (Socialistische Partij);21;Martijn;;Stoutjesdijk;Zaltbommel
+6;SP (Socialistische Partij);22;Tiers;;Bakker;Amsterdam
+6;SP (Socialistische Partij);23;Jordy;;Clemens;Heerlen
+6;SP (Socialistische Partij);24;Sara;;Murawski;Amsterdam
+6;SP (Socialistische Partij);25;Gerrie;;Elfrink;Arnhem
+6;SP (Socialistische Partij);26;Arnout;;Hoekstra;Vlaardingen
+6;SP (Socialistische Partij);27;Michel;;Verschuren;Breda
+6;SP (Socialistische Partij);28;Lieke;van;Rossum;Delft
+6;SP (Socialistische Partij);29;Lies;van;Aelst;Gorinchem
+6;SP (Socialistische Partij);30;Bram;;Roovers;'s-Hertogenbosch
+6;SP (Socialistische Partij);31;Marloes;;Piepers;Nijmegen
+6;SP (Socialistische Partij);32;Erik;;Flentge;Amsterdam
+6;SP (Socialistische Partij);33;Hans;van;Hooft;Nijmegen
+6;SP (Socialistische Partij);34;Eric;van den;Broek;Boxtel
+6;SP (Socialistische Partij);35;Iris;van de;Kolk;Alphen aan den Rijn
+6;SP (Socialistische Partij);36;Sebastiaan;van den;Hout;Rijswijk
+6;SP (Socialistische Partij);37;Thomas;van;Halm;Leiden
+6;SP (Socialistische Partij);38;David;de;Vreede;Almere
+6;SP (Socialistische Partij);39;Arda;;Gerkens;Haarlem
+6;SP (Socialistische Partij);40;Spencer;;Zeegers;Uden
+6;SP (Socialistische Partij);41;Angelique;;Schoonewille;Veendam
+6;SP (Socialistische Partij);42;Jan;;Broekema;Assen
+6;SP (Socialistische Partij);43;Ramon;;Vos;Drachten
+6;SP (Socialistische Partij);44;Robert;;Bos;Zwolle
+6;SP (Socialistische Partij);45;Annelies;;Futselaar;Enschede
+6;SP (Socialistische Partij);46;Henk;;Hensen;Oude Pekela
+6;SP (Socialistische Partij);47;Lian;;Veenstra;Veendam
+6;SP (Socialistische Partij);48;Mariska;ten;Heuw;Hengelo
+6;SP (Socialistische Partij);49;Ronald;van;Raak;Amsterdam
+6;SP (Socialistische Partij);50;Emile;;Roemer;Sambeek
+7;Partij van de Arbeid (P.v.d.A.);1;Lilianne;;Ploumen;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);2;Khadija;;Arib;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);3;Henk;;Nijboer;Groningen
+7;Partij van de Arbeid (P.v.d.A.);4;Attje;;Kuiken;Breda
+7;Partij van de Arbeid (P.v.d.A.);5;Kati;;Piri;'s-Gravenhage
+7;Partij van de Arbeid (P.v.d.A.);6;Joris;;Thijssen;Muiderberg
+7;Partij van de Arbeid (P.v.d.A.);7;Barbara;;Kathmann;Rotterdam
+7;Partij van de Arbeid (P.v.d.A.);8;Gijs;van;Dijk;Den Burg
+7;Partij van de Arbeid (P.v.d.A.);9;Habtamu;de;Hoop;Easterein
+7;Partij van de Arbeid (P.v.d.A.);10;Songül;;Mutluer;Zaandam
+7;Partij van de Arbeid (P.v.d.A.);11;Mohammed;;Mohandis;Gouda
+7;Partij van de Arbeid (P.v.d.A.);12;Kirsten;van den;Hul;'s-Gravenhage
+7;Partij van de Arbeid (P.v.d.A.);13;Julian;;Bushoff;Groningen
+7;Partij van de Arbeid (P.v.d.A.);14;Kavish;;Bisseswar;Beijing
+7;Partij van de Arbeid (P.v.d.A.);15;Charlotte;;Brand;Nijmegen
+7;Partij van de Arbeid (P.v.d.A.);16;Sofyan;;Mbarki;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);17;Mikal;;Tseggai;'s-Gravenhage
+7;Partij van de Arbeid (P.v.d.A.);18;Bart;van;Bruggen;Utrecht
+7;Partij van de Arbeid (P.v.d.A.);19;Christa;;Oosterbaan;West-Terschelling
+7;Partij van de Arbeid (P.v.d.A.);20;Barbara;;Oomen;Middelburg
+7;Partij van de Arbeid (P.v.d.A.);21;Inge;;Oosting;Elim
+7;Partij van de Arbeid (P.v.d.A.);22;Jasper;;Kuntzelaers;Venlo
+7;Partij van de Arbeid (P.v.d.A.);23;Mirthe;;Biemans;Utrecht
+7;Partij van de Arbeid (P.v.d.A.);24;Matthijs;van;Neerbos;Rotterdam
+7;Partij van de Arbeid (P.v.d.A.);25;Alptekin;;Akdogan;Houten
+7;Partij van de Arbeid (P.v.d.A.);26;Attiya;;Gamri;Overveen
+7;Partij van de Arbeid (P.v.d.A.);27;Iris;;Vrolijks;Maassluis
+7;Partij van de Arbeid (P.v.d.A.);28;Abassin;;Nessar;Almere
+7;Partij van de Arbeid (P.v.d.A.);29;Maarten;van den;Bos;Bemmel
+7;Partij van de Arbeid (P.v.d.A.);30;Fatihya;;Abdi;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);31;Stan;;Peters;'s-Hertogenbosch
+7;Partij van de Arbeid (P.v.d.A.);32;Lenna;;Vromans;Heemstede
+7;Partij van de Arbeid (P.v.d.A.);33;Rebekka;;Tselms;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);34;Marcelle;;Buitendam;Vinkeveen
+7;Partij van de Arbeid (P.v.d.A.);35;Loes;;Ypma;Woerden
+7;Partij van de Arbeid (P.v.d.A.);36;Jerzy;;Soetekouw;Almere
+7;Partij van de Arbeid (P.v.d.A.);37;Bas;;Bijlsma;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);38;Marieke;van;Duijn;Haarlem
+7;Partij van de Arbeid (P.v.d.A.);39;Joke;de;Kock;Terheijden
+7;Partij van de Arbeid (P.v.d.A.);40;Yasin;;Torunoglu;Eindhoven
+7;Partij van de Arbeid (P.v.d.A.);41;Aya;;Selman;Almere
+7;Partij van de Arbeid (P.v.d.A.);42;Marc;;Newsome;Leiden
+7;Partij van de Arbeid (P.v.d.A.);43;Yara;;Hümmels;Enschede
+7;Partij van de Arbeid (P.v.d.A.);44;Marco;;Eestermans;Kloetinge
+7;Partij van de Arbeid (P.v.d.A.);45;Peter;;Zwiers;2e Exloërmond
+7;Partij van de Arbeid (P.v.d.A.);46;Michiel;;Emmelkamp;Amsterdam
+7;Partij van de Arbeid (P.v.d.A.);47;Amma;;Asante;Badhoevedorp
+7;Partij van de Arbeid (P.v.d.A.);48;Theo;;Schouten;Almelo
+7;Partij van de Arbeid (P.v.d.A.);49;Eefke;;Meijerink;Zwolle
+7;Partij van de Arbeid (P.v.d.A.);50;Drees;;Kroes;Hengelo
+8;ChristenUnie;1;Gert-Jan;;Segers;Amersfoort
+8;ChristenUnie;2;Carola;;Schouten;Rotterdam
+8;ChristenUnie;3;Mirjam;;Bikker;Gouda
+8;ChristenUnie;4;Don;;Ceder;Amsterdam
+8;ChristenUnie;5;Pieter;;Grinwis;'s-Gravenhage
+8;ChristenUnie;6;Stieneke;van der;Graaf;Groningen
+8;ChristenUnie;7;Eppo;;Bruins;Ermelo
+8;ChristenUnie;8;Nico;;Drost;Rhenen
+8;ChristenUnie;9;Hermen;;Vreugdenhil;Nieuwendijk
+8;ChristenUnie;10;Dirjanne;van;Drongelen;Ede
+8;ChristenUnie;11;Frank;;Visser;Haarlem
+8;ChristenUnie;12;Simone;;Kennedy-Doornbos;Amersfoort
+8;ChristenUnie;13;Bert;;Tijhof;Rijssen
+8;ChristenUnie;14;Bina;;Chirino;Utrecht
+8;ChristenUnie;15;Johanna;;Koffeman-Kramer;Urk
+8;ChristenUnie;16;Gerdien;;Rots;Zwolle
+8;ChristenUnie;17;Alwin;te;Rietstap;Bergentheim
+8;ChristenUnie;18;Efraïm;;Hart;Amsterdam
+8;ChristenUnie;19;Carlijn;;Niesink;Wirdum
+8;ChristenUnie;20;Gert Jan;;Bent;Smilde
+8;ChristenUnie;21;Elly;van;Wageningen;Lelystad
+8;ChristenUnie;22;Jan Henk;;Verburg;Goes
+8;ChristenUnie;23;Marijke;;Heuvelink;Drunen
+8;ChristenUnie;24;Tobias;;Holtman;Aalten
+8;ChristenUnie;25;Inge;;Jongman-Mollema;Groningen
+8;ChristenUnie;26;Francis;van der;Mooren;Eys
+8;ChristenUnie;27;Andries;;Bouwman;Leeuwarden
+8;ChristenUnie;28;Marieke;;Visser;Rijnsburg
+8;ChristenUnie;29;Anil;;Kumar;Zoetermeer
+8;ChristenUnie;30;Arend;;Palland;Hattem
+8;ChristenUnie;31;Hadassa;;Meijer-IJtsma;Enschede
+8;ChristenUnie;32;Thomas;van;Arnhem;Rotterdam
+8;ChristenUnie;33;Maroeska;;Veldkamp-Magré;Elburg
+8;ChristenUnie;34;Sander;;Huisman;Amsterdam
+8;ChristenUnie;35;Ben;;Bloem;Apeldoorn
+8;ChristenUnie;36;Tirtsa;;Kamstra-van Dam;Vianen
+8;ChristenUnie;37;Thera;de;Haan-de Jong;Gouda
+8;ChristenUnie;38;Lubbert;van den;Heuvel;Putten
+8;ChristenUnie;39;Esther;;Kaper-Hartenberg;Kortenhoef
+8;ChristenUnie;40;Marco;;Vermin;Bennekom
+8;ChristenUnie;41;Daphne;;Steenbergen;Gouda
+8;ChristenUnie;42;Cees;;Paas;Sliedrecht
+8;ChristenUnie;43;Nathalie;;Nede;Arnhem
+8;ChristenUnie;44;Henk Willem;van;Dorp;Zoetermeer
+8;ChristenUnie;45;Frans;;Blok;Haarlem
+8;ChristenUnie;46;Anne;;Westerduin-de Jong;Doorn
+8;ChristenUnie;47;Els;van;Dijk;Veenendaal
+8;ChristenUnie;48;Jurjen;de;Groot;Amersfoort
+8;ChristenUnie;49;Mirjam;;Kollenstaart;Goudriaan
+8;ChristenUnie;50;Henk;;Stoorvogel;Zwolle
+9;Partij voor de Dieren;1;Esther;;Ouwehand;Leiden
+9;Partij voor de Dieren;2;Christine;;Teunissen;'s-Gravenhage
+9;Partij voor de Dieren;3;Leonie;;Vestering;Almere
+9;Partij voor de Dieren;4;Frank;;Wassenberg;Geleen
+9;Partij voor de Dieren;5;Lammert;van;Raan;Amsterdam
+9;Partij voor de Dieren;6;Eva;van;Esch;Utrecht
+9;Partij voor de Dieren;7;Eva;;Akerboom;Amsterdam
+9;Partij voor de Dieren;8;Pascale;;Plusquin;Heerlen
+9;Partij voor de Dieren;9;Maarten;van;Heuven;Utrecht
+9;Partij voor de Dieren;10;Johnas;van;Lammeren;Amsterdam
+9;Partij voor de Dieren;11;Marco;van der;Wel;Rijsbergen
+9;Partij voor de Dieren;12;Ines;;Kostić;Hilversum
+9;Partij voor de Dieren;13;Luuk;van der;Veer;Apeldoorn
+9;Partij voor de Dieren;14;Carla;van;Viegen;Pijnacker
+9;Partij voor de Dieren;15;Kirsten;de;Wrede;Groningen
+9;Partij voor de Dieren;16;Falco;van;Hassel;Wageningen
+9;Partij voor de Dieren;17;Leo;de;Groot;Arnhem
+9;Partij voor de Dieren;18;Jaap;;Hollebeek;Oostzaan
+9;Partij voor de Dieren;19;Robert;;Barker;'s-Gravenhage
+9;Partij voor de Dieren;20;Anjo;;Travaille;Utrecht
+9;Partij voor de Dieren;21;Jaap;;Rozema;Rotterdam
+9;Partij voor de Dieren;22;Cynthia;;Pallandt;Breda
+9;Partij voor de Dieren;23;Leonie;;Gerritsen;'s-Gravenhage
+9;Partij voor de Dieren;24;Anne-Miep;;Vlasveld;Tilburg
+9;Partij voor de Dieren;25;Trees;;Janssens;Middelburg
+9;Partij voor de Dieren;26;Suzanne;;Onderdelinden;Delft
+9;Partij voor de Dieren;27;Janine;;Visser;Alkmaar
+9;Partij voor de Dieren;28;Lester;van der;Pluijm;Culemborg
+9;Partij voor de Dieren;29;Caroline;de;Groot;Warten
+9;Partij voor de Dieren;30;Bart;;Kuijer;Beuningen
+9;Partij voor de Dieren;31;Siska;;Peeks;Assen
+9;Partij voor de Dieren;32;Marjolijn;;Veenstra;Almere
+9;Partij voor de Dieren;33;Lianne;;Raat;Leiden
+9;Partij voor de Dieren;34;Wesley;;Pechler;Groningen
+9;Partij voor de Dieren;35;Luuk;;Folkerts;Wijhe
+9;Partij voor de Dieren;36;Mensje;van der;Steen;Amsterdam
+9;Partij voor de Dieren;37;Maryam;;Hassouni;Amsterdam
+9;Partij voor de Dieren;38;Eva;;Meijer;Landsmeer
+9;Partij voor de Dieren;39;Bibi;;Dumon Tak;Zuiderwoude
+9;Partij voor de Dieren;40;Miryanna;;Boom;Amsterdam
+9;Partij voor de Dieren;41;Babette;van;Veen;Bilthoven
+9;Partij voor de Dieren;42;Chatilla;van;Grinsven;Rosmalen
+9;Partij voor de Dieren;43;Naphassa;;Parinussa;Utrecht
+9;Partij voor de Dieren;44;Klaas;;Knooihuizen;Amsterdam
+9;Partij voor de Dieren;45;Barbara;;Stok;Groningen
+9;Partij voor de Dieren;46;Guus;;Kuijer;Alkmaar
+9;Partij voor de Dieren;47;Anoek;;Nuijens;Amsterdam
+9;Partij voor de Dieren;48;Lisa;;Stel;Amsterdam
+9;Partij voor de Dieren;49;Anton;;Corbijn van Willenswaard;Amsterdam
+9;Partij voor de Dieren;50;Marianne;;Thieme;Heveadorp
+10;50PLUS;1;Liane;den;Haan;Woerden
+10;50PLUS;2;Raymond;;Brood;Heemstede
+10;50PLUS;3;Ellen;;Verkoelen;Rotterdam
+10;50PLUS;4;Martin;;Nijkamp;Bloemendaal
+10;50PLUS;5;Henk;van;Tilborg;Tilburg
+10;50PLUS;6;Jaap;;Haasnoot;Katwijk
+10;50PLUS;7;Marc;van;Rooij;Almere
+10;50PLUS;8;Ruud;van;Acquoij;Eindhoven
+10;50PLUS;9;Ron;van;Reenen;IJsselstein
+10;50PLUS;10;Noëlle;;Sanders;Amersfoort
+10;50PLUS;11;Alfons;;Leerkes;Wilnis
+10;50PLUS;12;Linda;;Verschuur-Otter;Slagharen
+10;50PLUS;13;Jan Frans;;Brouwers;Son en Breugel
+10;50PLUS;14;Geert;;Tomlow;'s-Gravenhage
+10;50PLUS;15;Willem;;Willemse;Vlissingen
+10;50PLUS;16;Ton;;Lammertink;Zoetermeer
+10;50PLUS;17;Adriana;;Hernández;'s-Hertogenbosch
+10;50PLUS;18;Bennie;van;Est;Maastricht
+10;50PLUS;19;Hans;;Bongers;Heesch
+10;50PLUS;20;John;van;Engelen;Nieuwegein
+10;50PLUS;21;Johan;;Hessing;Axel
+10;50PLUS;22;Nicoline;;Maarschalk Meijer;Amsterdam
+10;50PLUS;23;Hans;;Vlak;Bergen op Zoom
+10;50PLUS;24;Hylke;ten;Cate;Haarlem
+10;50PLUS;25;Nico;de;Vos;Julianadorp
+10;50PLUS;26;Leendert;;Lodder;Putten
+10;50PLUS;27;Chris;;Veeze;Leek
+10;50PLUS;28;Theo;;Hoppenbrouwers;Eindhoven
+10;50PLUS;29;Frans;;Mol;Helmond
+10;50PLUS;30;Joep;;Taks;Breda
+10;50PLUS;31;Peter;van;Lier;Breda
+10;50PLUS;32;Herman;;Nota;Parrega
+10;50PLUS;33;Gerard;;Timmerman;Ter Idzard
+10;50PLUS;34;Frans;;Crouwel;Terneuzen
+10;50PLUS;35;Ad;;Franse;Goes
+10;50PLUS;36;Coen;;Verboom;Kampen
+10;50PLUS;37;Willem;;Dekker;Hoofddorp
+10;50PLUS;38;Jan-Willem;van;Es;Amsterdam
+10;50PLUS;39;Gijs;;Schuurman;Hardenberg
+10;50PLUS;40;Leonie;;Sazias;Hilversum
+11;Staatkundig Gereformeerde Partij (SGP);1;Kees;van der;Staaij;Benthuizen
+11;Staatkundig Gereformeerde Partij (SGP);2;Chris;;Stoffer;Elspeet
+11;Staatkundig Gereformeerde Partij (SGP);3;Roelof;;Bisschop;Veenendaal
+11;Staatkundig Gereformeerde Partij (SGP);4;André;;Flach;Hendrik-Ido-Ambacht
+11;Staatkundig Gereformeerde Partij (SGP);5;Diederik;van;Dijk;Benthuizen
+11;Staatkundig Gereformeerde Partij (SGP);6;Wouter;van den;Berg;Houten
+11;Staatkundig Gereformeerde Partij (SGP);7;Geert;;Schipaanboord;Leiderdorp
+11;Staatkundig Gereformeerde Partij (SGP);8;Johnny;;Lukasse;Goes
+11;Staatkundig Gereformeerde Partij (SGP);9;Jan;;Kloosterman;Apeldoorn
+11;Staatkundig Gereformeerde Partij (SGP);10;Nathanaël;;Middelkoop;Urk
+11;Staatkundig Gereformeerde Partij (SGP);11;Arie;;Rijneveld;Werkendam
+11;Staatkundig Gereformeerde Partij (SGP);12;Maarten;;Slingerland;Genemuiden
+11;Staatkundig Gereformeerde Partij (SGP);13;Wim;van;Duijn;Katwijk
+11;Staatkundig Gereformeerde Partij (SGP);14;Dick;;Both;Veenendaal
+11;Staatkundig Gereformeerde Partij (SGP);15;Harry;van der;Maas;Aagtekerke
+11;Staatkundig Gereformeerde Partij (SGP);16;Hans;;Tanis;Sliedrecht
+11;Staatkundig Gereformeerde Partij (SGP);17;Ewart;;Bosma;Rijssen
+11;Staatkundig Gereformeerde Partij (SGP);18;Joost;;Veldman;Dordrecht
+11;Staatkundig Gereformeerde Partij (SGP);19;Marco;;Oosterwijk;Krimpen aan den IJssel
+11;Staatkundig Gereformeerde Partij (SGP);20;Leendert;de;Knegt;Barneveld
+11;Staatkundig Gereformeerde Partij (SGP);21;Gert;van;Leeuwen;Opheusden
+11;Staatkundig Gereformeerde Partij (SGP);22;Tom;;Bakker;Driezum
+11;Staatkundig Gereformeerde Partij (SGP);23;Wim;;Kok;Middelburg
+11;Staatkundig Gereformeerde Partij (SGP);24;Steven;van;Westreenen;Kesteren
+11;Staatkundig Gereformeerde Partij (SGP);25;Peter;;Noordergraaf;Werkendam
+11;Staatkundig Gereformeerde Partij (SGP);26;Ad;;Dorst;Yerseke
+11;Staatkundig Gereformeerde Partij (SGP);27;Ardjan;;Boersma;Papendrecht
+11;Staatkundig Gereformeerde Partij (SGP);28;Jan;;Kuijers;Staphorst
+11;Staatkundig Gereformeerde Partij (SGP);29;Henk;van der;Wind;Maarsbergen
+11;Staatkundig Gereformeerde Partij (SGP);30;Rick;van de;Waerdt;Ridderkerk
+11;Staatkundig Gereformeerde Partij (SGP);31;Henk;;Bulten;Doetinchem
+11;Staatkundig Gereformeerde Partij (SGP);32;Arnold;;Versteeg;Wekerom
+11;Staatkundig Gereformeerde Partij (SGP);33;Lambert;;Kisteman;De Klomp
+11;Staatkundig Gereformeerde Partij (SGP);34;Arnoud;;Proos;Barendrecht
+12;DENK;1;Farid;;Azarkan;Culemborg
+12;DENK;2;Tunahan;;Kuzu;Rotterdam
+12;DENK;3;Stephan;van;Baarle;Rotterdam
+12;DENK;4;Natasha;;Mohamed-Hoesein;Rotterdam
+12;DENK;5;Charifa;;Zemouri;Amsterdam
+12;DENK;6;Isaura;;Carrilho;Amsterdam
+12;DENK;7;Ahmet;;Erdoğan;Rotterdam
+12;DENK;8;Nur;;Icar;'s-Gravenhage
+12;DENK;9;Enes;;Sariakçe;Enschede
+12;DENK;10;Gürcü;;Polat-Işıktaş;Schiedam
+12;DENK;11;Mandy;;Heikamp-El Khoulati;Veenendaal
+12;DENK;12;Doğukan;;Ergin;Schiedam
+12;DENK;13;Ahmet;;Kaya;Deventer
+12;DENK;14;Ibrahim;;Ghazi;Amsterdam
+12;DENK;15;Paulina;;Smit;Valkenburg
+12;DENK;16;Arief;;Khedoe;Almere
+12;DENK;17;Dennis;;Belfor;Rotterdam
+12;DENK;18;Omar;El;Boussaïdi;Almere
+12;DENK;19;Marcel;;Everduim;Rotterdam
+12;DENK;20;Taha;;Çoban;Enschede
+12;DENK;21;Ahmed;El;Hadioui;'s-Gravenhage
+13;Forum voor Democratie;1;;;Baudet;Amsterdam
+13;Forum voor Democratie;2;;van;Haga;Haarlem
+13;Forum voor Democratie;3;;;Ephraim;Amsterdam
+13;Forum voor Democratie;4;;;Smolders;Tilburg
+13;Forum voor Democratie;5;;;Kerseboom;Maastricht
+13;Forum voor Democratie;6;;van;Meijeren;'s-Gravenhage
+13;Forum voor Democratie;7;;;Jansen;'s-Gravenhage
+13;Forum voor Democratie;8;;van;Houwelingen;'s-Gravenhage
+13;Forum voor Democratie;9;;;Dekker;Amsterdam
+13;Forum voor Democratie;10;;;Vastenhouw;Ilpendam
+13;Forum voor Democratie;11;;de;Kok;Noordeinde Gld
+13;Forum voor Democratie;12;;;Boom;Barendrecht
+13;Forum voor Democratie;13;;van den;Oetelaar;Schijndel
+13;Forum voor Democratie;14;;de;Lange;Lelystad
+13;Forum voor Democratie;15;;;Jong;'s-Gravenhage
+13;Forum voor Democratie;16;;de;Groot;Voorhout
+13;Forum voor Democratie;17;;;Bakir;Enschede
+13;Forum voor Democratie;18;;;Osseweijer;Groningen
+13;Forum voor Democratie;19;;;Dieudonné;Châtel-St-Denis
+13;Forum voor Democratie;20;;;Bos;Middelburg
+13;Forum voor Democratie;21;;;Jousma;Menaam
+13;Forum voor Democratie;22;;;Koopmans-van der Veen;Tytsjerk
+13;Forum voor Democratie;23;;;Chevalier;Alphen aan den Rijn
+13;Forum voor Democratie;24;;de;Keijzer;Amsterdam
+13;Forum voor Democratie;25;;;Cornelissen;Eindhoven
+13;Forum voor Democratie;26;;van der;Werf;Groningen
+13;Forum voor Democratie;27;;van der;Pol;'s-Gravenhage
+13;Forum voor Democratie;28;;;Rotmans;Arnhem
+13;Forum voor Democratie;29;;;Velzing;Klazienaveen
+13;Forum voor Democratie;30;;van der;Velden;Almere
+13;Forum voor Democratie;31;;;Kuijer;Cagnes sur Mer
+13;Forum voor Democratie;32;;van;Essen;Gouda
+13;Forum voor Democratie;33;;;Walravens;Hulst
+13;Forum voor Democratie;34;;;Klazinga;Deventer
+13;Forum voor Democratie;35;;;Driessen;Reuver
+13;Forum voor Democratie;36;;;Verbraak;Roosendaal
+13;Forum voor Democratie;37;;van der;Knoop;Zandvoort
+13;Forum voor Democratie;38;;;Bos;Bovensmilde
+13;Forum voor Democratie;39;;;Jeelof;Oud-Beijerland
+13;Forum voor Democratie;40;;;Talsma;Dokkum
+13;Forum voor Democratie;41;;van der;Voort;Hellevoetsluis
+13;Forum voor Democratie;42;;;Dessing;Zaandam
+13;Forum voor Democratie;43;;;Vermaas;Vaassen
+13;Forum voor Democratie;44;;;Mink;Hillegom
+13;Forum voor Democratie;45;;;Verstegen;Vierlingsbeek
+13;Forum voor Democratie;46;;;Mulder;Migues
+13;Forum voor Democratie;47;;;Hugenholtz;Maasmechelen
+13;Forum voor Democratie;48;;;Staartjes;Blaricum
+13;Forum voor Democratie;49;;van;Schijndel;Amsterdam
+13;Forum voor Democratie;50;;;Frentrop;Bloemendaal
+14;BIJ1;1;Sylvana;;Simons;Duivendrecht
+14;BIJ1;2;Quinsy;;Gario;Amsterdam
+14;BIJ1;3;Rebekka;;Timmer;Hilversum
+14;BIJ1;4;Jeanette;;Chedda;Delft
+14;BIJ1;5;Daryll;;Landbrug;Amsterdam
+14;BIJ1;6;Michantely;de;Jong;Rotterdam
+14;BIJ1;7;Lennon;;Fokkens;Haarlem
+14;BIJ1;8;Nihâl;;Altmiş;Eindhoven
+14;BIJ1;9;Yvette;;Luhrs;Amsterdam
+14;BIJ1;10;Petra;;Kramer;Drachten
+14;BIJ1;11;Yuval;;Gal;'s-Gravenhage
+14;BIJ1;12;Bart;;Mijland;Utrecht
+14;BIJ1;13;Lysanne;;Charles;Saba
+14;BIJ1;14;Miko;;Carels;Zoetermeer
+14;BIJ1;15;Vayhishta;;Miskin;Amsterdam
+14;BIJ1;16;Gloria;;Wekker;Amsterdam
+14;BIJ1;17;Anousha;;Nzume;New York
+14;BIJ1;18;Romana;;Vrede;Rotterdam
+15;JA21;1;Joost;;Eerdmans;Rotterdam
+15;JA21;2;Nicki;;Pouw-Verweij;Maarssen
+15;JA21;3;Derk Jan;;Eppink;'s-Gravenhage
+15;JA21;4;Maarten;;Goudzwaard;Leeuwarden
+15;JA21;5;Stefan;;Berlijn;Utrecht
+15;JA21;6;Leon;;Baten;Krimpen aan den IJssel
+15;JA21;7;Jan Cees;;Vogelaar;Lelystad
+15;JA21;8;Yael;;Potjer;Utrecht
+15;JA21;9;Michiel;;Hoogeveen;Leiden
+15;JA21;10;Maryam;;Soltani;Moordrecht
+15;JA21;11;Willem;;Rutjens;'s-Hertogenbosch
+15;JA21;12;Esther;van;Schaik;Rotterdam
+15;JA21;13;Matthijs;;Sandmann;Rotterdam
+15;JA21;14;Thomas;;Blinde;Roden
+15;JA21;15;Eelco;Van;Hoecke;Heikant
+15;JA21;16;Mieke;;Andriese;Zaventem
+15;JA21;17;Ruud;;Burlet;Geleen
+15;JA21;18;Johan;;Almekinders;Enschede
+15;JA21;19;Gert-Jan;;Ransijn;Zeewolde
+15;JA21;20;Wouter;;Weijers;Zeist
+15;JA21;21;Swier;;Copinga;Groningen
+15;JA21;22;Elly;;Mulder;Leiden
+15;JA21;23;Ronald;;Zoutendijk;Wassenaar
+15;JA21;24;Simon;;Ceulemans;Rotterdam
+15;JA21;25;Loek;van;Wely;Oss
+15;JA21;26;Roy;;Blijlevens;Hulsberg
+15;JA21;27;Xander;;Eversdijk;Hulst
+15;JA21;28;Rob;;Roos;Poortugaal
+15;JA21;29;Ronald;;Sörensen;Rotterdam
+15;JA21;30;Annabel;;Nanninga;Amsterdam
+16;CODE ORANJE;1;Richard;de;Mos;'s-Gravenhage
+16;CODE ORANJE;2;Peter;;Plasman;Amsterdam
+16;CODE ORANJE;3;Tanya;;Hoogwerf;Rotterdam
+16;CODE ORANJE;4;Ruud;;Koornstra;Arnhem
+16;CODE ORANJE;5;Ingeborg;;Hoogveld;Rotterdam
+16;CODE ORANJE;6;Mick;de;Vlieger;Amsterdam
+16;CODE ORANJE;7;Johan;;Stuut;Nijverdal
+16;CODE ORANJE;8;Sebas;;Diekstra;Wassenaar
+16;CODE ORANJE;9;Hannie;;Stuurman;Goeree-Overflakkee
+16;CODE ORANJE;10;Öner;;Çatalpinar;'s-Gravenhage
+16;CODE ORANJE;11;Richard;van den;Bovenkamp;Almelo
+16;CODE ORANJE;12;Gerrit;de;Jonge;Ommen
+16;CODE ORANJE;13;Tineke;;Nieboer;Noordenveld
+16;CODE ORANJE;14;Robert;;Pestman;Groningen
+16;CODE ORANJE;15;Petra;;Ackermans;Zutphen
+16;CODE ORANJE;16;Martijn;van;Butselaar;Arnhem
+16;CODE ORANJE;17;Rogier;van;Wijk;Lelystad
+16;CODE ORANJE;18;Sander;;Jonker;Stichtse Vecht
+16;CODE ORANJE;19;John;;Struijlaard;Rotterdam
+16;CODE ORANJE;20;Femke;;Flietstra;Alkmaar
+16;CODE ORANJE;21;Martijn;;Rieter;Helmond
+16;CODE ORANJE;22;Koert;;Westerman;Oudewater
+16;CODE ORANJE;23;Damiën;;Zeller;'s-Gravenhage
+16;CODE ORANJE;24;Laurens;van;Doorn;Rotterdam
+16;CODE ORANJE;25;Sylvia;;Hamerslag;Den Helder
+16;CODE ORANJE;26;Arja;;Brink;Purmerend
+16;CODE ORANJE;27;Theo;;Kwakman;Edam-Volendam
+16;CODE ORANJE;28;Jan;van der;Starre;Heerhugowaard
+16;CODE ORANJE;29;Hemmie;;Kerklingh;Diemen
+16;CODE ORANJE;30;Cor;;Verbeek;Eindhoven
+16;CODE ORANJE;31;Peter;van;Steensel;Valkenswaard
+16;CODE ORANJE;32;Rien;;Luijkx;Veldhoven
+16;CODE ORANJE;33;Wil;van;Soest;Amsterdam
+16;CODE ORANJE;34;Vanessa;;Bruin;Rotterdam
+16;CODE ORANJE;35;Josette;;Hogewoning;Vlaardingen
+16;CODE ORANJE;36;Raymond;van;Haren;Vlaardingen
+16;CODE ORANJE;37;Eddy;;Silva;Schiedam
+16;CODE ORANJE;38;Peter;van der;Velden;Nissewaard
+16;CODE ORANJE;39;Jordy;;Schaap;Haarlemmermeer
+16;CODE ORANJE;40;Ward;;Meijroos;Zoetermeer
+16;CODE ORANJE;41;Hans-Peter;;Klazenga;Leidschendam-Voorburg
+16;CODE ORANJE;42;John;;Janson;Capelle aan den IJssel
+16;CODE ORANJE;43;Harry;;Wagemakers;Dordrecht
+16;CODE ORANJE;44;Pim;;Kraan;Vlissingen
+16;CODE ORANJE;45;Ruud;;Kleefman;Vlissingen
+16;CODE ORANJE;46;Harry;;Kleinen;Bergen op Zoom
+16;CODE ORANJE;47;Wim;van;Overveld;Oudenbosch
+16;CODE ORANJE;48;Ralf;;Sluijs;'s-Gravenhage
+16;CODE ORANJE;49;Jolanda;;Gaal;Delft
+16;CODE ORANJE;50;Bert;;Blase;Papendrecht
+17;Volt;1;Laurens;;Dassen;Amsterdam
+17;Volt;2;Nilüfer;;Gündoğan;Amsterdam
+17;Volt;3;Ernst;;Boutkan;Leiden
+17;Volt;4;Marieke;;Koekkoek;Utrecht
+17;Volt;5;Martin;;Gravelotte;Amsterdam
+17;Volt;6;Bibi;;Wielinga;Amsterdam
+17;Volt;7;Floris;;Eigenhuis;Amersfoort
+17;Volt;8;Ilca;;Italianer;Amsterdam
+17;Volt;9;Fons;;Janssen;Veulen
+17;Volt;10;Sylvia;van;Laar;Leiden
+17;Volt;11;Itay;;Garmy;Amsterdam
+17;Volt;12;Marleen;;Ramaker;Groningen
+17;Volt;13;Joris;van;Oppenraaij;'s-Gravenhage
+17;Volt;14;Sandra;;Griffejoen;Blaricum
+17;Volt;15;Jeroen;van;Iterson;Oegstgeest
+17;Volt;16;Sarah;de;Koff;Rotterdam
+17;Volt;17;Frank;;Toeset;Breda
+17;Volt;18;Michelle;van;Zanten;'s-Gravenhage
+17;Volt;19;Thomas;van der;Meer;Enschede
+17;Volt;20;Sacha;ten;Hove;Emmen
+17;Volt;21;Friso;;Datema;Alkmaar
+17;Volt;22;Ger;van;Eeden;Leiden
+17;Volt;23;Jeroen;;Koendjbiharie;Wageningen
+17;Volt;24;Robine;van;Eck;Amsterdam
+17;Volt;25;Theo;;Doreleijers;Amsterdam
+17;Volt;26;Elske;;Kroesen;Heemstede
+17;Volt;27;Katya;;Lenskaya;Heukelom
+17;Volt;28;Reinier;van;Lanschot;Amsterdam
+18;NIDA;1;Nourdin;El;Ouali;Rotterdam
+18;NIDA;2;Elsa;van de;Loo;Amsterdam
+18;NIDA;3;Nurullah;;Gerdan;Barendrecht
+18;NIDA;4;Fatima;;Aboulouafa;'s-Gravenhage
+18;NIDA;5;Elvin;;Rigters;Rotterdam
+18;NIDA;6;Jacqueline;;Echtermeijer;Rotterdam
+18;NIDA;7;Mohamed;;Abdulahi;Rotterdam
+18;NIDA;8;Sanaa;;Abarghaze;Bergen op Zoom
+18;NIDA;9;Adeel;;Mahmood;'s-Gravenhage
+18;NIDA;10;Nancy;;Rijssel;Almere
+18;NIDA;11;Mounir;;Kasmi;Panningen
+18;NIDA;12;Sobana;;Sheikh Rashid;Capelle aan den IJssel
+18;NIDA;13;Almira;;Henić;Schiedam
+18;NIDA;14;Assamau'al;;Saidi Rabah;Amstelveen
+18;NIDA;15;Asma;;Halusi;'s-Gravenhage
+18;NIDA;16;Alihan;;Uzun;Hendrik-Ido-Ambacht
+18;NIDA;17;Layla;;Klioual;Wilrijk
+18;NIDA;18;Emre;;Şahin;'s-Gravenhage
+18;NIDA;19;Youssra;;Ebnolfaqih;Roosendaal
+18;NIDA;20;Önder;;Duran;Delft
+18;NIDA;21;Mohammed;;Akkari;Schiedam
+18;NIDA;22;Hassan;;Buyatui;Almere
+18;NIDA;23;Aytaç;;Alpdoğu;Helmond
+18;NIDA;24;Michał;;Hajkowski;Voorburg
+18;NIDA;25;Stephan;;Kuipers;Groningen
+18;NIDA;26;Leyla;;Cakir;Zoetermeer
+18;NIDA;27;Fariz;;Akkouh;Almere
+18;NIDA;28;Marinah;;Butt;'s-Gravenhage
+18;NIDA;29;Bas;van;Noppen;Rotterdam
+18;NIDA;30;Hasib;;Moukaddim;Almere
+18;NIDA;31;Halil;;Karaaslan;Schiedam
+19;Piratenpartij;1;Matthijs;;Pontier;Amsterdam
+19;Piratenpartij;2;Ji Yong;;Dijkhuis;Lelystad
+19;Piratenpartij;3;Saira;;Sadloe;Purmerend
+19;Piratenpartij;4;David;van;Deijk;Eindhoven
+19;Piratenpartij;5;Jasmijn;;Boeken;Beuningen Gld
+19;Piratenpartij;6;Wietze;;Brandsma;Burgum
+19;Piratenpartij;7;Petra;;Downs-Hovestadt;Helmond
+19;Piratenpartij;8;Mark;van;Treuren;Schagen
+19;Piratenpartij;9;Astrid;;Abendroth;Amsterdam
+19;Piratenpartij;10;Danny;;Werner;Amsterdam
+19;Piratenpartij;11;André;;Linnenbank;Zaandam
+19;Piratenpartij;12;Dmitri;;Schrama;Utrecht
+19;Piratenpartij;13;Leontien;;Wafelman;Amsterdam
+19;Piratenpartij;14;Dylan;;Hallegraeff;'s-Gravenhage
+19;Piratenpartij;15;Frank;;Wijnans;Idsegahuizum
+19;Piratenpartij;16;Tjerk;;Feitsma;Amstelveen
+19;Piratenpartij;17;Bob;;Sikkema;Enkhuizen
+19;Piratenpartij;18;Edy;;Bouma;Ede
+19;Piratenpartij;19;Robert;;Kwakkelstein;'s-Gravenhage
+19;Piratenpartij;20;Thijs;;Ligthart;Alkmaar
+19;Piratenpartij;21;Peter;ter;Haak;Lisse
+19;Piratenpartij;22;Melchior;;Philips;Arnhem
+19;Piratenpartij;23;Dave;;Borghuis ook genaamd op de Borg;Enschede
+19;Piratenpartij;24;Rick;;Piepers;Amsterdam
+19;Piratenpartij;25;Teunis;van;Nes;Goes
+19;Piratenpartij;26;Mirjam;van;Rijn;Amsterdam
+19;Piratenpartij;27;Dirk;;Poot;Hoeven
+19;Piratenpartij;28;Metje;;Blaak;Amsterdam
+20;LP (Libertaire Partij);1;Robert;;Valentine;Amsterdam
+20;LP (Libertaire Partij);2;Jeroen;;Weber;Rijswijk
+20;LP (Libertaire Partij);3;Roos;;Schoenmakers;Venlo
+20;LP (Libertaire Partij);4;Arnoud;;Kuipers;Assen
+20;LP (Libertaire Partij);5;Wijnand;;Groenen;Maarssen
+20;LP (Libertaire Partij);6;Nathan;;Bouscher;Amsterdam
+20;LP (Libertaire Partij);7;Willem;;Buising;Rijswijk
+20;LP (Libertaire Partij);8;Yu Mei;;O;Amsterdam
+20;LP (Libertaire Partij);9;Saskia;van;Balen;Amsterdam
+20;LP (Libertaire Partij);10;Marco;;Nijweide;Maastricht
+20;LP (Libertaire Partij);11;Willem;;Cornax;Amsterdam
+20;LP (Libertaire Partij);12;Pallieter;;Koopmans;Wassenaar
+20;LP (Libertaire Partij);13;Peter;;Hartkamp;Amersfoort
+20;LP (Libertaire Partij);14;Romy;de;Man;Rijswijk
+20;LP (Libertaire Partij);15;Nicki;de;Haaij;Bleiswijk
+20;LP (Libertaire Partij);16;Lola;de;Grunt;Noordwijk
+20;LP (Libertaire Partij);17;Gianni;;Kalkman;Oostvoorne
+20;LP (Libertaire Partij);18;Nando;;Jansen;Barendrecht
+20;LP (Libertaire Partij);19;Ria;;Winkelhorst;'s-Gravenhage
+20;LP (Libertaire Partij);20;Rutger;;Hanssens;Dorst
+20;LP (Libertaire Partij);21;Tom;;Huijs;Horst
+20;LP (Libertaire Partij);22;Arno;;Inen;Amsterdam
+20;LP (Libertaire Partij);23;Sander;;Fischer;Rijswijk
+20;LP (Libertaire Partij);24;Joeri;;Jungschlager;Rotterdam
+20;LP (Libertaire Partij);25;Quintus;;Backhuijs;Leiden
+20;LP (Libertaire Partij);26;Rik;;Kleinsmit;Almere
+20;LP (Libertaire Partij);27;Roald;;Schoenmakers;Delft
+20;LP (Libertaire Partij);28;Jip;;Meijer;Leiderdorp
+20;LP (Libertaire Partij);29;Roman;van;Ree;Leiden
+20;LP (Libertaire Partij);30;Loes;;Engels;'s-Gravenhage
+20;LP (Libertaire Partij);31;Arno;;Wellens;Amsterdam
+21;JONG;1;Jaron;;Tichelaar;Noordscheschut
+21;JONG;2;Christinemindel;ten;Napel;Bovenkarspel
+21;JONG;3;Andreas;;Klein;Eindhoven
+21;JONG;4;Shane;;Pattipeilohy;Amersfoort
+21;JONG;5;Amber;;Cornelissen;Amsterdam
+21;JONG;6;Benito;;Walker;Veendam
+21;JONG;7;Feline;van der;Louw;Woerden
+21;JONG;8;Samir;;el-Baramawi;Maastricht
+21;JONG;9;Dennis;;Goedhart;Bolsward
+21;JONG;10;Kaya;van den;Dikkenberg;Doetinchem
+21;JONG;11;Lars;;Hobma;Breda
+21;JONG;12;Sophie;;Brügemann;Den Burg
+21;JONG;13;Jasper;van;Veen;Amersfoort
+21;JONG;14;Noël;;Silalahi;Helmond
+21;JONG;15;Elisha;;Geertsma;Hoogeveen
+21;JONG;16;Jacob;de;Groot;Easterlittens
+21;JONG;17;Joyce;van;Boekel;'s-Hertogenbosch
+21;JONG;18;Jan;;Geelen;Tjerkwerd
+22;Splinter;1;Femke Merel;van;Kooten-Arissen;Woerden
+22;Splinter;2;Marjan;;Schnetz;'s-Gravenhage
+22;Splinter;3;Fabian;van;Hal;Amsterdam
+22;Splinter;4;Giovanni;;Angiolini Trapanese;Voorburg
+22;Splinter;5;Ingrid;;Keyser;Amsterdam
+22;Splinter;6;Shad;;Raouf;Nijmegen
+22;Splinter;7;Marise;;Schot;Delft
+22;Splinter;8;Elisabeth;van;Leeuwen;Amsterdam
+22;Splinter;9;René Jan;;Veldwijk;'s-Gravenhage
+22;Splinter;10;Magda;;Łuczycki;Woerden
+22;Splinter;11;Mauritius;;Wijffels;Amsterdam
+22;Splinter;12;Meiny;;Prins;Weggis
+23;BBB;1;Caroline;van der;Plas;Deventer
+23;BBB;2;Femke;;Wiersma;Holwerd
+23;BBB;3;Erik;;Stegink;Bathmen
+23;BBB;4;Derk Evert;;Waalkens;Assen
+23;BBB;5;Wim;;Jaspers;Someren
+23;BBB;6;Elly;van;Wijk;Snelrewaard
+23;BBB;7;Robert;;Veldhuis;Amersfoort
+23;BBB;8;Ad;;Baltus;Zuidschermer
+23;BBB;9;Jan;;Brok;Enter
+23;BBB;10;Monique;;Flipsen-Verhagen;Den Hout
+23;BBB;11;Ad;;Merks;Haastrecht
+23;BBB;12;Robin;van;Lint;Montfoort
+23;BBB;13;Dario;;Prinsen;Haaksbergen
+23;BBB;14;Wilbert;van;Lanen;Bakel
+23;BBB;15;Ron;van;Essen;Slijk-Ewijk
+23;BBB;16;Kees;;Hanse;Zierikzee
+23;BBB;17;Arno;;Vael;Zaamslag
+23;BBB;18;Janet;;Mensink-Smit;Westerhaar-Vriezenveensewijk
+23;BBB;19;Han;van 't;Hof;Sint-Annaland
+23;BBB;20;Gert-Jan;;Minderhoud;Oudelande
+23;BBB;21;Jan-Jorch;van;Dijk;Veenendaal
+23;BBB;22;Willem;van den;Elzen;Stevensbeek
+23;BBB;23;Frank;;Timmermans;Neer
+23;BBB;24;Gert;van;Dellen;Lutjegast
+23;BBB;25;Henk;;Vermeer;Harderwijk
+23;BBB;26;Wim;;Groot Koerkamp;Olst
+24;NLBeter;1;Esther;van;Fenema;Maarn
+24;NLBeter;2;Ton;van;Haperen;Eindhoven
+24;NLBeter;3;Janneke;;Wittekoek;Maarssen
+24;NLBeter;4;Ronald;;Mann;Huizen
+24;NLBeter;5;Ingrid;;Hartog;Krimpen aan den IJssel
+24;NLBeter;6;Gerrit;;Breteler;Nes
+24;NLBeter;7;Meindert;;Bolt;Nieuw Beerta
+24;NLBeter;8;Igor;;Monzón;Leeuwarden
+24;NLBeter;9;Anneke;;Tromp;Hilversum
+24;NLBeter;10;Steffie;;Jansen;Utrecht
+24;NLBeter;11;Fred;;Schonewille;Diepenveen
+24;NLBeter;12;Maurice;;Leeser;Utrecht
+24;NLBeter;13;Klaas;van;Veen;Groningen
+24;NLBeter;14;Elly;;Koning;Amsterdam
+25;Lijst Henk Krol;1;Henk;;Krol;Eindhoven
+25;Lijst Henk Krol;2;Rosa;;Molenaar;'s-Gravenhage
+25;Lijst Henk Krol;3;Dick;van;Zanten;Gorinchem
+25;Lijst Henk Krol;4;Arjan;van der;Hout;Bergeijk
+25;Lijst Henk Krol;5;Manitou;;Jansen;Nieuwe Pekela
+25;Lijst Henk Krol;6;Bert;;Kannegieter;Bingelrade
+25;Lijst Henk Krol;7;Justiënne;de;Lange-Wendt;'s-Gravenhage
+25;Lijst Henk Krol;8;Rob;;Cohen;Almere
+25;Lijst Henk Krol;9;Daan;;Pruimboom;Hippolytushoef
+25;Lijst Henk Krol;10;Wilma;de;Mooij;Harmelen
+25;Lijst Henk Krol;11;Jan;;Sikking;Diemen
+25;Lijst Henk Krol;12;Bart;;Schuitenmaker;Zandvoort
+25;Lijst Henk Krol;13;Marco;van den;Boomgaard;Zoetermeer
+25;Lijst Henk Krol;14;Leen;van;Toor;Uddel
+25;Lijst Henk Krol;15;John;;Geven;Nuenen
+25;Lijst Henk Krol;16;Ger;de;Groot;Rijswijk
+25;Lijst Henk Krol;17;Janneke;;Koning;Boerakker
+25;Lijst Henk Krol;18;Joop;;Boonstra;Amsterdam
+25;Lijst Henk Krol;19;Betty;;Gerber;Alkmaar
+25;Lijst Henk Krol;20;Huub;;Slangen;Brunssum
+25;Lijst Henk Krol;21;Monique;;Kortenoeven;Kudelstaart
+25;Lijst Henk Krol;22;Frank;;Engelman;Bergeijk
+26;OPRECHT;1;Michael;;Ruperti;Ede
+26;OPRECHT;2;Dirk Jan;;Keijser;Voorburg
+26;OPRECHT;3;Dannij;van der;Sluijs;Uitgeest
+26;OPRECHT;4;José;;Imlabla;Apeldoorn
+26;OPRECHT;5;Robert;van den;Bout;Ridderkerk
+26;OPRECHT;6;Jan;;Nieboer;2e Exloërmond
+26;OPRECHT;7;Peter;van;Welij;Maarsbergen
+26;OPRECHT;8;Ferdinand;van de;Zande;Oostvoorne
+26;OPRECHT;9;Robert;;Brunke;Vlissingen
+26;OPRECHT;10;Alexander;;Stienstra;Amsterdam
+26;OPRECHT;11;Vinesh;;Khoenkhoen;Pijnacker
+26;OPRECHT;12;Nicole;;Martens;Houten
+26;OPRECHT;13;Richard;;Zijlstra;Wommels
+26;OPRECHT;14;Jan;;Rhebergen;Zoetermeer
+26;OPRECHT;15;Erik;;Verbrugh;Woerden
+26;OPRECHT;16;Maurice;;Vissers;Breda
+26;OPRECHT;17;Robert;van;Gemeren;Hendrik-Ido-Ambacht
+27;JEZUS LEEFT;1;;van der;Spek;Giessenburg
+27;JEZUS LEEFT;2;;van;Ooijen;Giessenburg
+27;JEZUS LEEFT;3;;;Westhoven;Hardinxveld-Giessendam
+28;Trots op Nederland (TROTS);1;Sander;van den;Raadt;Haarlem
+28;Trots op Nederland (TROTS);2;Dana;van;Kessel;Haarlem
+28;Trots op Nederland (TROTS);3;Jac;;Amand;Haarlem
+28;Trots op Nederland (TROTS);4;Sabina;;Achterbergh;Amsterdam
+28;Trots op Nederland (TROTS);5;Henk;;Smits;Weert
+28;Trots op Nederland (TROTS);6;Sebastiaan;;Veenstra;Leeuwarden
+28;Trots op Nederland (TROTS);7;Lodewijk;;Koenen;Haarlem
+28;Trots op Nederland (TROTS);8;Sheila;;Neijman;Leiden
+28;Trots op Nederland (TROTS);9;Johan;;Rijbroek;Haarlem
+28;Trots op Nederland (TROTS);10;Luud;;Klarenbeek;Cuijk
+28;Trots op Nederland (TROTS);11;Maikel;;Kat;Zaandam
+28;Trots op Nederland (TROTS);12;Willem;;Sikkema;Hasselt
+28;Trots op Nederland (TROTS);13;Erwin;van;Oosterom;Apeldoorn
+28;Trots op Nederland (TROTS);14;Vera;;Verhagen;Haarlem
+28;Trots op Nederland (TROTS);15;Joop;;Dekker;Amsterdam
+28;Trots op Nederland (TROTS);16;Colinda;;Cordés;Albrandswaard
+28;Trots op Nederland (TROTS);17;Arjan;;Gelder;Alkmaar
+29;U-Buntu Connected Front;1;;;Vaarnold;Amsterdam
+29;U-Buntu Connected Front;2;;;Sno;Overdinkel
+29;U-Buntu Connected Front;3;;;Cuvalay;Tilburg
+29;U-Buntu Connected Front;4;;;Fer;Lelystad
+29;U-Buntu Connected Front;5;;;Doesburg;Rijswijk
+29;U-Buntu Connected Front;6;;;Tjon A Kon;Almere
+29;U-Buntu Connected Front;7;;;Woodley;Sint Eustatius
+29;U-Buntu Connected Front;8;;;Vlet;Zoetermeer
+29;U-Buntu Connected Front;9;;;Miguel;Rotterdam
+29;U-Buntu Connected Front;10;;;Kassa;Rotterdam
+29;U-Buntu Connected Front;11;;;Riedewald;Amsterdam
+29;U-Buntu Connected Front;12;;;Ploeg;Tilburg
+29;U-Buntu Connected Front;13;;;Lopes;Sint Eustatius
+29;U-Buntu Connected Front;14;;;Ovunda;Rotterdam
+29;U-Buntu Connected Front;15;;;Mac Intosch;Utrecht
+29;U-Buntu Connected Front;16;;;Igbonugo;Rotterdam
+29;U-Buntu Connected Front;17;;;Sillé;Groningen
+29;U-Buntu Connected Front;18;;;Mijnals;Rotterdam
+29;U-Buntu Connected Front;19;;;Biekman;Zoetermeer
+32;DE FEESTPARTIJ (DFP);1;Johan;;Vlemmix;Leende
+33;Vrij en Sociaal Nederland;1;Bas;;Filippini;Ouderkerk aan de Amstel
+33;Vrij en Sociaal Nederland;2;Irene;van der;Marel;Lunteren
+33;Vrij en Sociaal Nederland;3;Giliam;;Kuijpers;Bussum
+33;Vrij en Sociaal Nederland;4;Katie;;Janssen;Amsterdam
+33;Vrij en Sociaal Nederland;5;Theo;;Vos;Laren
+33;Vrij en Sociaal Nederland;6;Christian;;Kromme;Elburg
+33;Vrij en Sociaal Nederland;7;Felix;;Tangelder;Arnhem
+33;Vrij en Sociaal Nederland;8;Norbert;;Klein;Hoevelaken
+33;Vrij en Sociaal Nederland;9;Kees;van;Driel;Amsterdam
+33;Vrij en Sociaal Nederland;10;Christian;ter;Veer;'s-Gravenhage
